@@ -56,11 +56,14 @@ namespace ClassJMS
         public double ObtenirTauxPNA()
         {
             double tauxPNA = 0;
-            foreach(PieceNonAgreee unePiece in this.lesPieces)
+            foreach(Piece unePiece in this.lesPieces)
             {
-                tauxPNA += 1;
+                if(unePiece is PieceNonAgreee)
+                {
+                    tauxPNA += 1;
+                }
             }
-            return tauxPNA / this.lesPieces.Count() % 100;
+            return (tauxPNA / this.lesPieces.Count()) * 100;
         }
 
         public List<Piece> ControlerPieces()
