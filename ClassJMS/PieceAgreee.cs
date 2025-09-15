@@ -25,7 +25,7 @@ namespace ClassJMS
         #region Méthodes
         public int CalculerDureeAgrement()
         {
-            return 0;
+            return DateTime.Now.Year - this.dateAgrement.Year;
         }
 
         public void RenouvelerAgrement(DateTime uneDate)
@@ -35,7 +35,19 @@ namespace ClassJMS
 
         public string ObtenirInfos()
         {
-            return this.nomConstructeur;
+            return $"{base.ObtenirInfos()}\nConstructeur : {this.nomConstructeur}\nDate Agrément : {this.dateAgrement}";
+        }
+
+        public override bool AControler()
+        {
+            if (DateTime.Now.Year - 2 < this.dateAgrement.Year)
+                return false;
+            return true;
+        }
+
+        public DateTime GetDateAgrement()
+        { 
+            return this.dateAgrement; 
         }
         #endregion
     }
