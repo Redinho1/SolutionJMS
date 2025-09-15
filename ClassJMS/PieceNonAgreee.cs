@@ -29,16 +29,11 @@ namespace ClassJMS
         }
 
         public void ChangerEtat(string unEtat)
-<<<<<<< HEAD
         {
             if (unEtat == "VERT" || unEtat == "ORANGE" || unEtat == "ROUGE")
                 this.etat = unEtat;
             else
                 this.etat = "VERT";
-=======
-        { 
-            this.etat = unEtat; 
->>>>>>> 13c17ff578ba6a645bd0e286c1b663c5d3294ae8
         }
 
         public override string ObtenirInfos()

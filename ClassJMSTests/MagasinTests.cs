@@ -7,7 +7,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace ClassJMS.Tests
-{ /*
+{ 
     [TestClass()]
     public class MagasinTests
     {
@@ -16,7 +16,7 @@ namespace ClassJMS.Tests
         public void AjouterPieceTest()
         {
             // Instanciation d'un magasin et de 3 pièces
-            Magasin m = new Magasin();
+            Magasin m = new Magasin(new List<Piece>());
             Piece p1 = new PieceAgreee(125, "Anémomètre", 1250, DateTime.Parse("12/03/2022"), "ZZZ");
             Piece p2 = new PieceAgreee(477, "Truc", 4500, DateTime.Parse("01/05/2025"), "ZZZ");
             Piece p3 = new PieceNonAgreee(477, "Courroie", 3250, 3000);
@@ -57,5 +57,5 @@ namespace ClassJMS.Tests
 
         }
 
-    } */
+    } 
 }

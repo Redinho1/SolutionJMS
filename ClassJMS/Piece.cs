@@ -43,6 +43,7 @@ namespace ClassJMS
         {
             return this.libelle;
         }
+
         #endregion
     }
 }

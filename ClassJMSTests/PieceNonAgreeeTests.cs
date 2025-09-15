@@ -43,8 +43,6 @@ namespace ClassJMS.Tests
             // Cas 3 : La piece n'est pas à contrôler car son état n'est pas vert, même si le seuil est dépassé
             PNA.ChangerEtat("ORANGE");
             Assert.AreEqual(true, PNA.AControler());
-
-
         }
     } 
 }
