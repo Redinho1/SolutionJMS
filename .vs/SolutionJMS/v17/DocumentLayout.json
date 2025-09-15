@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{01D41B0F-2B31-4781-8AFA-A7D4D5318625}|ClassJMS\\ClassJMS.csproj|solutionrelative:classjms\\piece.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D31D9FC2-7AB0-4E58-820B-4EC71526A1B7}|ClassJMSTests\\ClassJMSTests.csproj|z:\\b2_b3_slam_girard\\tp\\02tp_poo_heritage\\solutionjms\\classjmstests\\piecetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D31D9FC2-7AB0-4E58-820B-4EC71526A1B7}|ClassJMSTests\\ClassJMSTests.csproj|Z:\\B2_B3_SLAM_GIRARD\\TP\\02TP_POO_Heritage\\SolutionJMS\\classjmstests\\piecetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D31D9FC2-7AB0-4E58-820B-4EC71526A1B7}|ClassJMSTests\\ClassJMSTests.csproj|solutionrelative:classjmstests\\piecetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -46,8 +46,7 @@
               "RelativeToolTip": "ClassJMSTests\\PieceTests.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-15T08:46:29.842Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-15T08:46:29.842Z"
             },
             {
               "$type": "Document",
@@ -69,7 +68,7 @@
               "RelativeDocumentMoniker": "ClassJMS\\Piece.cs",
               "ToolTip": "Z:\\B2_B3_SLAM_GIRARD\\TP\\02TP_POO_Heritage\\SolutionJMS\\ClassJMS\\Piece.cs",
               "RelativeToolTip": "ClassJMS\\Piece.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-15T07:49:18.492Z",
               "EditorCaption": ""
