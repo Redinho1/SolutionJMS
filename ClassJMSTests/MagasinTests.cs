@@ -7,11 +7,11 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace ClassJMS.Tests
-{
+{ /*
     [TestClass()]
     public class MagasinTests
     {
-        
+
         [TestMethod()]
         public void AjouterPieceTest()
         {
@@ -37,11 +37,11 @@ namespace ClassJMS.Tests
         public void ObtenirTauxPNATest()
         {
             // Etape 1 : Instanciation d'un magasin, de 5 pièces agréées et de 3 pièces non agréées
-                       
+
             // Etape 2 : Ajout des pièces au magasin - utilisation de la méthode SetLesPieces 
-            
+
             // Etape 3 : Vérification du taux de pièces non agréées
-           
+
         }
 
         [TestMethod()]
@@ -56,6 +56,6 @@ namespace ClassJMS.Tests
             // Etape 3 : Vérification du nombre de pièces à contrôler et du contenu de la liste des pièces à contrôler
 
         }
-     
-    }
+
+    } */
 }

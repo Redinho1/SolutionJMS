@@ -34,7 +34,7 @@ namespace ClassJMS
             return false;
         }
 
-        public string ObtenirInfos()
+        public virtual string ObtenirInfos()
         {
             return $"{GetNumSerie()} - {GetLibelle()}";
         }

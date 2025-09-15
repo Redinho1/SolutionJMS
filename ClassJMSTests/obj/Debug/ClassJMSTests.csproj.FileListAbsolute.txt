@@ -10,3 +10,14 @@ C:\Users\sophie\Desktop\Annee2019-2020\SLAM2\TD_TP\09TP\SolutionJMS\ClassJMSTest
 C:\Users\sophie\Desktop\Annee2019-2020\SLAM2\TD_TP\09TP\SolutionJMS\ClassJMSTests\obj\Debug\ClassJMSTests.dll
 C:\Users\sophie\Desktop\Annee2019-2020\SLAM2\TD_TP\09TP\SolutionJMS\ClassJMSTests\obj\Debug\ClassJMSTests.pdb
 D:\Annee2020-2021\B2Conception et developpement applications\TP\06DM\09TP\SolutionJMS\ClassJMSTests\obj\Debug\ClassJMSTests.csproj.CoreCompileInputs.cache
+C:\Users\faquir\Desktop\SolutionJMS\ClassJMSTests\bin\Debug\ClassJMSTests.dll
+C:\Users\faquir\Desktop\SolutionJMS\ClassJMSTests\bin\Debug\ClassJMSTests.pdb
+C:\Users\faquir\Desktop\SolutionJMS\ClassJMSTests\bin\Debug\ClassJMS.dll
+C:\Users\faquir\Desktop\SolutionJMS\ClassJMSTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\faquir\Desktop\SolutionJMS\ClassJMSTests\bin\Debug\ClassJMS.pdb
+C:\Users\faquir\Desktop\SolutionJMS\ClassJMSTests\bin\Debug\fr\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\faquir\Desktop\SolutionJMS\ClassJMSTests\obj\Debug\ClassJMSTests.csproj.AssemblyReference.cache
+C:\Users\faquir\Desktop\SolutionJMS\ClassJMSTests\obj\Debug\ClassJMSTests.csproj.CoreCompileInputs.cache
+C:\Users\faquir\Desktop\SolutionJMS\ClassJMSTests\obj\Debug\ClassJMS.82176B91.Up2Date
+C:\Users\faquir\Desktop\SolutionJMS\ClassJMSTests\obj\Debug\ClassJMSTests.dll
+C:\Users\faquir\Desktop\SolutionJMS\ClassJMSTests\obj\Debug\ClassJMSTests.pdb

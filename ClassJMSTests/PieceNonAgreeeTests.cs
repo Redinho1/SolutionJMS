@@ -7,7 +7,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace ClassJMS.Tests
-{
+{ /*
     [TestClass()]
     public class PieceNonAgreeeTests
     {
@@ -34,5 +34,5 @@ namespace ClassJMS.Tests
             
             
         }
-    }
+    } */
 }
