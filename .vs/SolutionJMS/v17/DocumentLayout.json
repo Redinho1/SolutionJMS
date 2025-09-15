@@ -3,15 +3,19 @@
   "WorkspaceRootPath": "Z:\\B2_B3_SLAM_GIRARD\\TP\\02TP_POO_Heritage\\SolutionJMS\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{01D41B0F-2B31-4781-8AFA-A7D4D5318625}|ClassJMS\\ClassJMS.csproj|z:\\b2_b3_slam_girard\\tp\\02tp_poo_heritage\\solutionjms\\classjms\\piece.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{01D41B0F-2B31-4781-8AFA-A7D4D5318625}|ClassJMS\\ClassJMS.csproj|Z:\\B2_B3_SLAM_GIRARD\\TP\\02TP_POO_Heritage\\SolutionJMS\\classjms\\piece.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{01D41B0F-2B31-4781-8AFA-A7D4D5318625}|ClassJMS\\ClassJMS.csproj|solutionrelative:classjms\\piece.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{01D41B0F-2B31-4781-8AFA-A7D4D5318625}|ClassJMS\\ClassJMS.csproj|z:\\b2_b3_slam_girard\\tp\\02tp_poo_heritage\\solutionjms\\classjms\\magasin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D31D9FC2-7AB0-4E58-820B-4EC71526A1B7}|ClassJMSTests\\ClassJMSTests.csproj|z:\\b2_b3_slam_girard\\tp\\02tp_poo_heritage\\solutionjms\\classjmstests\\piecetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D31D9FC2-7AB0-4E58-820B-4EC71526A1B7}|ClassJMSTests\\ClassJMSTests.csproj|solutionrelative:classjmstests\\piecetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01D41B0F-2B31-4781-8AFA-A7D4D5318625}|ClassJMS\\ClassJMS.csproj|Z:\\B2_B3_SLAM_GIRARD\\TP\\02TP_POO_Heritage\\SolutionJMS\\classjms\\magasin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{01D41B0F-2B31-4781-8AFA-A7D4D5318625}|ClassJMS\\ClassJMS.csproj|solutionrelative:classjms\\magasin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D31D9FC2-7AB0-4E58-820B-4EC71526A1B7}|ClassJMSTests\\ClassJMSTests.csproj|z:\\b2_b3_slam_girard\\tp\\02tp_poo_heritage\\solutionjms\\classjmstests\\pieceagreeetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D31D9FC2-7AB0-4E58-820B-4EC71526A1B7}|ClassJMSTests\\ClassJMSTests.csproj|Z:\\B2_B3_SLAM_GIRARD\\TP\\02TP_POO_Heritage\\SolutionJMS\\classjmstests\\pieceagreeetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D31D9FC2-7AB0-4E58-820B-4EC71526A1B7}|ClassJMSTests\\ClassJMSTests.csproj|solutionrelative:classjmstests\\pieceagreeetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -26,8 +30,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PieceTests.cs",
+              "DocumentMoniker": "Z:\\B2_B3_SLAM_GIRARD\\TP\\02TP_POO_Heritage\\SolutionJMS\\ClassJMSTests\\PieceTests.cs",
+              "RelativeDocumentMoniker": "ClassJMSTests\\PieceTests.cs",
+              "ToolTip": "Z:\\B2_B3_SLAM_GIRARD\\TP\\02TP_POO_Heritage\\SolutionJMS\\ClassJMSTests\\PieceTests.cs",
+              "RelativeToolTip": "ClassJMSTests\\PieceTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T08:38:04.983Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -36,14 +53,14 @@
               "RelativeDocumentMoniker": "ClassJMS\\Piece.cs",
               "ToolTip": "Z:\\B2_B3_SLAM_GIRARD\\TP\\02TP_POO_Heritage\\SolutionJMS\\ClassJMS\\Piece.cs",
               "RelativeToolTip": "ClassJMS\\Piece.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAwCEAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-15T07:49:18.492Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Magasin.cs",
               "DocumentMoniker": "Z:\\B2_B3_SLAM_GIRARD\\TP\\02TP_POO_Heritage\\SolutionJMS\\ClassJMS\\Magasin.cs",
               "RelativeDocumentMoniker": "ClassJMS\\Magasin.cs",
@@ -51,12 +68,11 @@
               "RelativeToolTip": "ClassJMS\\Magasin.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-15T07:49:17.72Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-15T07:49:17.72Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "PieceAgreeeTests.cs",
               "DocumentMoniker": "Z:\\B2_B3_SLAM_GIRARD\\TP\\02TP_POO_Heritage\\SolutionJMS\\ClassJMSTests\\PieceAgreeeTests.cs",
               "RelativeDocumentMoniker": "ClassJMSTests\\PieceAgreeeTests.cs",
@@ -64,12 +80,11 @@
               "RelativeToolTip": "ClassJMSTests\\PieceAgreeeTests.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-04T15:29:35.95Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-04T15:29:35.95Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "MagasinTests.cs",
               "DocumentMoniker": "Z:\\B2_B3_SLAM_GIRARD\\TP\\02TP_POO_Heritage\\SolutionJMS\\ClassJMSTests\\MagasinTests.cs",
               "RelativeDocumentMoniker": "ClassJMSTests\\MagasinTests.cs",

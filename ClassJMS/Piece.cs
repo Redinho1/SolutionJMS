@@ -15,17 +15,18 @@ namespace ClassJMS
         #endregion
 
         #region constructeur
-        public Piece(int numSerie, string libelle)
+        public Piece(int unNumero, string unLibelle, int unNombre)
         {
-            this.numSerie = numSerie;
-            this.libelle = libelle;
+            this.numSerie = unNumero;
+            this.libelle = unLibelle;
+            this.nbHeures = unNombre;
         }
         #endregion
 
         #region méthodes
-        public int GetNumSerie() 
-        { 
-            return this.numSerie; 
+        public int GetNumSerie()
+        {
+            return this.numSerie;
         }
 
         public virtual bool AControler()
@@ -35,7 +36,7 @@ namespace ClassJMS
 
         public string ObtenirInfos()
         {
-            return $"{GetNumSerie()} - {this.libelle}";
+            return $"{GetNumSerie()} - {GetLibelle()}";
         }
 
         public string GetLibelle()

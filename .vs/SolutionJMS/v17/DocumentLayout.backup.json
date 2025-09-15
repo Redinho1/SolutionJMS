@@ -1,13 +1,25 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\sophi\\Desktop\\Annee2025-2026\\B2_SLAM_SIO2\\TP\\02TP_POO_Heritage\\SolutionJMS\\",
+  "WorkspaceRootPath": "Z:\\B2_B3_SLAM_GIRARD\\TP\\02TP_POO_Heritage\\SolutionJMS\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D31D9FC2-7AB0-4E58-820B-4EC71526A1B7}|ClassJMSTests\\ClassJMSTests.csproj|c:\\users\\sophi\\desktop\\annee2025-2026\\b2_slam_sio2\\tp\\02tp_poo_heritage\\solutionjms\\classjmstests\\pieceagreeetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D31D9FC2-7AB0-4E58-820B-4EC71526A1B7}|ClassJMSTests\\ClassJMSTests.csproj|z:\\b2_b3_slam_girard\\tp\\02tp_poo_heritage\\solutionjms\\classjmstests\\piecetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D31D9FC2-7AB0-4E58-820B-4EC71526A1B7}|ClassJMSTests\\ClassJMSTests.csproj|solutionrelative:classjmstests\\piecetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01D41B0F-2B31-4781-8AFA-A7D4D5318625}|ClassJMS\\ClassJMS.csproj|z:\\b2_b3_slam_girard\\tp\\02tp_poo_heritage\\solutionjms\\classjms\\piece.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01D41B0F-2B31-4781-8AFA-A7D4D5318625}|ClassJMS\\ClassJMS.csproj|solutionrelative:classjms\\piece.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01D41B0F-2B31-4781-8AFA-A7D4D5318625}|ClassJMS\\ClassJMS.csproj|Z:\\B2_B3_SLAM_GIRARD\\TP\\02TP_POO_Heritage\\SolutionJMS\\classjms\\magasin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01D41B0F-2B31-4781-8AFA-A7D4D5318625}|ClassJMS\\ClassJMS.csproj|solutionrelative:classjms\\magasin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D31D9FC2-7AB0-4E58-820B-4EC71526A1B7}|ClassJMSTests\\ClassJMSTests.csproj|Z:\\B2_B3_SLAM_GIRARD\\TP\\02TP_POO_Heritage\\SolutionJMS\\classjmstests\\pieceagreeetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D31D9FC2-7AB0-4E58-820B-4EC71526A1B7}|ClassJMSTests\\ClassJMSTests.csproj|solutionrelative:classjmstests\\pieceagreeetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D31D9FC2-7AB0-4E58-820B-4EC71526A1B7}|ClassJMSTests\\ClassJMSTests.csproj|C:\\Users\\sophi\\Desktop\\Annee2025-2026\\B2_SLAM_SIO2\\TP\\02TP_POO_Heritage\\SolutionJMS\\classjmstests\\magasintests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D31D9FC2-7AB0-4E58-820B-4EC71526A1B7}|ClassJMSTests\\ClassJMSTests.csproj|Z:\\B2_B3_SLAM_GIRARD\\TP\\02TP_POO_Heritage\\SolutionJMS\\classjmstests\\magasintests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D31D9FC2-7AB0-4E58-820B-4EC71526A1B7}|ClassJMSTests\\ClassJMSTests.csproj|solutionrelative:classjmstests\\magasintests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -18,37 +30,69 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "PieceAgreeeTests.cs",
-              "DocumentMoniker": "C:\\Users\\sophi\\Desktop\\Annee2025-2026\\B2_SLAM_SIO2\\TP\\02TP_POO_Heritage\\SolutionJMS\\ClassJMSTests\\PieceAgreeeTests.cs",
-              "RelativeDocumentMoniker": "ClassJMSTests\\PieceAgreeeTests.cs",
-              "ToolTip": "C:\\Users\\sophi\\Desktop\\Annee2025-2026\\B2_SLAM_SIO2\\TP\\02TP_POO_Heritage\\SolutionJMS\\ClassJMSTests\\PieceAgreeeTests.cs",
-              "RelativeToolTip": "ClassJMSTests\\PieceAgreeeTests.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAJAAAAAAAAAA==",
+              "Title": "PieceTests.cs",
+              "DocumentMoniker": "Z:\\B2_B3_SLAM_GIRARD\\TP\\02TP_POO_Heritage\\SolutionJMS\\ClassJMSTests\\PieceTests.cs",
+              "RelativeDocumentMoniker": "ClassJMSTests\\PieceTests.cs",
+              "ToolTip": "Z:\\B2_B3_SLAM_GIRARD\\TP\\02TP_POO_Heritage\\SolutionJMS\\ClassJMSTests\\PieceTests.cs",
+              "RelativeToolTip": "ClassJMSTests\\PieceTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-04T15:29:35.95Z",
+              "WhenOpened": "2025-09-15T08:38:04.983Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Piece.cs",
+              "DocumentMoniker": "Z:\\B2_B3_SLAM_GIRARD\\TP\\02TP_POO_Heritage\\SolutionJMS\\ClassJMS\\Piece.cs",
+              "RelativeDocumentMoniker": "ClassJMS\\Piece.cs",
+              "ToolTip": "Z:\\B2_B3_SLAM_GIRARD\\TP\\02TP_POO_Heritage\\SolutionJMS\\ClassJMS\\Piece.cs",
+              "RelativeToolTip": "ClassJMS\\Piece.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T07:49:18.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Magasin.cs",
+              "DocumentMoniker": "Z:\\B2_B3_SLAM_GIRARD\\TP\\02TP_POO_Heritage\\SolutionJMS\\ClassJMS\\Magasin.cs",
+              "RelativeDocumentMoniker": "ClassJMS\\Magasin.cs",
+              "ToolTip": "Z:\\B2_B3_SLAM_GIRARD\\TP\\02TP_POO_Heritage\\SolutionJMS\\ClassJMS\\Magasin.cs",
+              "RelativeToolTip": "ClassJMS\\Magasin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T07:49:17.72Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PieceAgreeeTests.cs",
+              "DocumentMoniker": "Z:\\B2_B3_SLAM_GIRARD\\TP\\02TP_POO_Heritage\\SolutionJMS\\ClassJMSTests\\PieceAgreeeTests.cs",
+              "RelativeDocumentMoniker": "ClassJMSTests\\PieceAgreeeTests.cs",
+              "ToolTip": "Z:\\B2_B3_SLAM_GIRARD\\TP\\02TP_POO_Heritage\\SolutionJMS\\ClassJMSTests\\PieceAgreeeTests.cs",
+              "RelativeToolTip": "ClassJMSTests\\PieceAgreeeTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T15:29:35.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "MagasinTests.cs",
-              "DocumentMoniker": "C:\\Users\\sophi\\Desktop\\Annee2025-2026\\B2_SLAM_SIO2\\TP\\02TP_POO_Heritage\\SolutionJMS\\ClassJMSTests\\MagasinTests.cs",
+              "DocumentMoniker": "Z:\\B2_B3_SLAM_GIRARD\\TP\\02TP_POO_Heritage\\SolutionJMS\\ClassJMSTests\\MagasinTests.cs",
               "RelativeDocumentMoniker": "ClassJMSTests\\MagasinTests.cs",
-              "ToolTip": "C:\\Users\\sophi\\Desktop\\Annee2025-2026\\B2_SLAM_SIO2\\TP\\02TP_POO_Heritage\\SolutionJMS\\ClassJMSTests\\MagasinTests.cs",
+              "ToolTip": "Z:\\B2_B3_SLAM_GIRARD\\TP\\02TP_POO_Heritage\\SolutionJMS\\ClassJMSTests\\MagasinTests.cs",
               "RelativeToolTip": "ClassJMSTests\\MagasinTests.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAABaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-04T15:29:12.727Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-04T15:29:12.727Z"
             }
           ]
         }
