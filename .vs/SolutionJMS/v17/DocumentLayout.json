@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\faquir\\Desktop\\SolutionJMS\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{D31D9FC2-7AB0-4E58-820B-4EC71526A1B7}|ClassJMSTests\\ClassJMSTests.csproj|C:\\Users\\faquir\\Desktop\\SolutionJMS\\classjmstests\\piecenonagreeetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D31D9FC2-7AB0-4E58-820B-4EC71526A1B7}|ClassJMSTests\\ClassJMSTests.csproj|solutionrelative:classjmstests\\piecenonagreeetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01D41B0F-2B31-4781-8AFA-A7D4D5318625}|ClassJMS\\ClassJMS.csproj|c:\\users\\faquir\\desktop\\solutionjms\\classjms\\piecenonagreee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01D41B0F-2B31-4781-8AFA-A7D4D5318625}|ClassJMS\\ClassJMS.csproj|solutionrelative:classjms\\piecenonagreee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{01D41B0F-2B31-4781-8AFA-A7D4D5318625}|ClassJMS\\ClassJMS.csproj|C:\\Users\\faquir\\Desktop\\SolutionJMS\\classjms\\pieceagreee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{01D41B0F-2B31-4781-8AFA-A7D4D5318625}|ClassJMS\\ClassJMS.csproj|solutionrelative:classjms\\pieceagreee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -15,12 +23,8 @@
       "RelativeMoniker": "D:0:0:{D31D9FC2-7AB0-4E58-820B-4EC71526A1B7}|ClassJMSTests\\ClassJMSTests.csproj|solutionrelative:classjmstests\\pieceagreeetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{01D41B0F-2B31-4781-8AFA-A7D4D5318625}|ClassJMS\\ClassJMS.csproj|c:\\users\\faquir\\desktop\\solutionjms\\classjms\\piece.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{01D41B0F-2B31-4781-8AFA-A7D4D5318625}|ClassJMS\\ClassJMS.csproj|C:\\Users\\faquir\\Desktop\\SolutionJMS\\classjms\\piece.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{01D41B0F-2B31-4781-8AFA-A7D4D5318625}|ClassJMS\\ClassJMS.csproj|solutionrelative:classjms\\piece.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D31D9FC2-7AB0-4E58-820B-4EC71526A1B7}|ClassJMSTests\\ClassJMSTests.csproj|c:\\users\\faquir\\desktop\\solutionjms\\classjmstests\\piecenonagreeetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D31D9FC2-7AB0-4E58-820B-4EC71526A1B7}|ClassJMSTests\\ClassJMSTests.csproj|solutionrelative:classjmstests\\piecenonagreeetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{01D41B0F-2B31-4781-8AFA-A7D4D5318625}|ClassJMS\\ClassJMS.csproj|C:\\Users\\faquir\\Desktop\\SolutionJMS\\classjms\\magasin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -42,20 +46,46 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
+              "Title": "PieceNonAgreee.cs",
+              "DocumentMoniker": "C:\\Users\\faquir\\Desktop\\SolutionJMS\\ClassJMS\\PieceNonAgreee.cs",
+              "RelativeDocumentMoniker": "ClassJMS\\PieceNonAgreee.cs",
+              "ToolTip": "C:\\Users\\faquir\\Desktop\\SolutionJMS\\ClassJMS\\PieceNonAgreee.cs",
+              "RelativeToolTip": "ClassJMS\\PieceNonAgreee.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwCEAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T09:40:21.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PieceAgreee.cs",
+              "DocumentMoniker": "C:\\Users\\faquir\\Desktop\\SolutionJMS\\ClassJMS\\PieceAgreee.cs",
+              "RelativeDocumentMoniker": "ClassJMS\\PieceAgreee.cs",
+              "ToolTip": "C:\\Users\\faquir\\Desktop\\SolutionJMS\\ClassJMS\\PieceAgreee.cs",
+              "RelativeToolTip": "ClassJMS\\PieceAgreee.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T09:30:10.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "PieceNonAgreeeTests.cs",
               "DocumentMoniker": "C:\\Users\\faquir\\Desktop\\SolutionJMS\\ClassJMSTests\\PieceNonAgreeeTests.cs",
               "RelativeDocumentMoniker": "ClassJMSTests\\PieceNonAgreeeTests.cs",
               "ToolTip": "C:\\Users\\faquir\\Desktop\\SolutionJMS\\ClassJMSTests\\PieceNonAgreeeTests.cs",
               "RelativeToolTip": "ClassJMSTests\\PieceNonAgreeeTests.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAowCQAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-15T09:31:02.699Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "PieceTests.cs",
               "DocumentMoniker": "C:\\Users\\faquir\\Desktop\\SolutionJMS\\ClassJMSTests\\PieceTests.cs",
               "RelativeDocumentMoniker": "ClassJMSTests\\PieceTests.cs",
@@ -68,33 +98,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "PieceAgreee.cs",
-              "DocumentMoniker": "C:\\Users\\faquir\\Desktop\\SolutionJMS\\ClassJMS\\PieceAgreee.cs",
-              "RelativeDocumentMoniker": "ClassJMS\\PieceAgreee.cs",
-              "ToolTip": "C:\\Users\\faquir\\Desktop\\SolutionJMS\\ClassJMS\\PieceAgreee.cs",
-              "RelativeToolTip": "ClassJMS\\PieceAgreee.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAA4wCUAAACPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-15T09:30:10.364Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Piece.cs",
               "DocumentMoniker": "C:\\Users\\faquir\\Desktop\\SolutionJMS\\ClassJMS\\Piece.cs",
               "RelativeDocumentMoniker": "ClassJMS\\Piece.cs",
               "ToolTip": "C:\\Users\\faquir\\Desktop\\SolutionJMS\\ClassJMS\\Piece.cs",
               "RelativeToolTip": "ClassJMS\\Piece.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAgwCQAAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-15T09:30:10.472Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-15T09:30:10.472Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Magasin.cs",
               "DocumentMoniker": "C:\\Users\\faquir\\Desktop\\SolutionJMS\\ClassJMS\\Magasin.cs",
               "RelativeDocumentMoniker": "ClassJMS\\Magasin.cs",
@@ -106,20 +122,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "PieceAgreeeTests.cs",
               "DocumentMoniker": "C:\\Users\\faquir\\Desktop\\SolutionJMS\\ClassJMSTests\\PieceAgreeeTests.cs",
               "RelativeDocumentMoniker": "ClassJMSTests\\PieceAgreeeTests.cs",
               "ToolTip": "C:\\Users\\faquir\\Desktop\\SolutionJMS\\ClassJMSTests\\PieceAgreeeTests.cs",
               "RelativeToolTip": "ClassJMSTests\\PieceAgreeeTests.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-15T09:30:10.507Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "MagasinTests.cs",
               "DocumentMoniker": "C:\\Users\\faquir\\Desktop\\SolutionJMS\\ClassJMSTests\\MagasinTests.cs",
               "RelativeDocumentMoniker": "ClassJMSTests\\MagasinTests.cs",
