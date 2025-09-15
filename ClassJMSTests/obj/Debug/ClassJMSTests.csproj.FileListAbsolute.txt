@@ -1,0 +1,12 @@
+C:\Users\sophie\Desktop\Annee2019-2020\SLAM2\TD_TP\09TP\SolutionJMS\ClassJMSTests\bin\Debug\ClassJMSTests.dll
+C:\Users\sophie\Desktop\Annee2019-2020\SLAM2\TD_TP\09TP\SolutionJMS\ClassJMSTests\bin\Debug\ClassJMSTests.pdb
+C:\Users\sophie\Desktop\Annee2019-2020\SLAM2\TD_TP\09TP\SolutionJMS\ClassJMSTests\bin\Debug\ClassJMS.dll
+C:\Users\sophie\Desktop\Annee2019-2020\SLAM2\TD_TP\09TP\SolutionJMS\ClassJMSTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\sophie\Desktop\Annee2019-2020\SLAM2\TD_TP\09TP\SolutionJMS\ClassJMSTests\bin\Debug\ClassJMS.pdb
+C:\Users\sophie\Desktop\Annee2019-2020\SLAM2\TD_TP\09TP\SolutionJMS\ClassJMSTests\bin\Debug\fr\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\sophie\Desktop\Annee2019-2020\SLAM2\TD_TP\09TP\SolutionJMS\ClassJMSTests\obj\Debug\ClassJMSTests.csprojAssemblyReference.cache
+C:\Users\sophie\Desktop\Annee2019-2020\SLAM2\TD_TP\09TP\SolutionJMS\ClassJMSTests\obj\Debug\ClassJMSTests.csproj.CoreCompileInputs.cache
+C:\Users\sophie\Desktop\Annee2019-2020\SLAM2\TD_TP\09TP\SolutionJMS\ClassJMSTests\obj\Debug\ClassJMSTests.csproj.CopyComplete
+C:\Users\sophie\Desktop\Annee2019-2020\SLAM2\TD_TP\09TP\SolutionJMS\ClassJMSTests\obj\Debug\ClassJMSTests.dll
+C:\Users\sophie\Desktop\Annee2019-2020\SLAM2\TD_TP\09TP\SolutionJMS\ClassJMSTests\obj\Debug\ClassJMSTests.pdb
+D:\Annee2020-2021\B2Conception et developpement applications\TP\06DM\09TP\SolutionJMS\ClassJMSTests\obj\Debug\ClassJMSTests.csproj.CoreCompileInputs.cache
