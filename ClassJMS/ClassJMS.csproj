@@ -44,6 +44,7 @@
   <ItemGroup>
     <Compile Include="Magasin.cs" />
     <Compile Include="Piece.cs" />
+    <Compile Include="PieceAgreee.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

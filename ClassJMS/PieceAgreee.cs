@@ -6,7 +6,10 @@ using System.Threading.Tasks;
 
 namespace ClassJMS
 {
-    class PieceAgreee
+    internal class PieceAgreee
     {
+        #region Attributs Privées
+
+        #endregion
     }
 }
