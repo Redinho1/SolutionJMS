@@ -69,13 +69,13 @@ namespace ClassJMS.Tests
             // de 5 pièces agréées (dont 3 ont un agrément de plus de 2 ans)
             // et de 3 pièces non agréées (dont une a dépassé le nombre d'heures d'utilisation)
             Magasin m = new Magasin(new List<Piece>());
-            Piece p1 = new PieceAgreee(125, "Anémomètre", 1250, DateTime.Parse("12/03/2022"), "ZZZ");
+            Piece p1 = new PieceAgreee(125, "Anémomètre", 1250, DateTime.Parse("12/03/2020"), "ABS");
             Piece p2 = new PieceAgreee(477, "Truc", 800, DateTime.Parse("01/05/2025"), "ZZZ");
-            Piece p3 = new PieceNonAgreee(477, "Courroie", 3250, 3000);
-            Piece p4 = new PieceAgreee(845, "Bouf", 9750, DateTime.Parse("12/03/2024"), "ZZZ");
-            Piece p5 = new PieceAgreee(327, "Proof", 1500, DateTime.Parse("08/11/2023"), "ZZZ");
+            Piece p3 = new PieceNonAgreee(477, "Courroie", 3250, 5000);
+            Piece p4 = new PieceAgreee(847, "Bouf", 9750, DateTime.Parse("12/03/2024"), "OPS");
+            Piece p5 = new PieceAgreee(327, "Proof", 1500, DateTime.Parse("08/11/2021"), "BOT");
             Piece p6 = new PieceNonAgreee(845, "Schroumpf", 8025, 2220);
-            Piece p7 = new PieceAgreee(327, "Burp", 7850, DateTime.Parse("29/07/2022"), "ZZZ");
+            Piece p7 = new PieceAgreee(327, "Burp", 7850, DateTime.Parse("29/07/2022"), "TRE");
             Piece p8 = new PieceNonAgreee(900, "A", 7020, 3050);
 
             // Etape 2 : Ajout des pièces au magasin - utilisation de la méthode SetLesPieces 
@@ -90,7 +90,7 @@ namespace ClassJMS.Tests
 
             // Etape 3 : Vérification du nombre de pièces à contrôler et du contenu de la liste des pièces à contrôler
 
-            Assert.AreEqual(2, m.ControlerPieces().Count);
+            Assert.AreEqual(4, m.ControlerPieces().Count);
 
 
         }

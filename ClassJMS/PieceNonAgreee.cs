@@ -43,11 +43,13 @@ namespace ClassJMS
 
         public override bool AControler()
         {
-            if(GetEtat() == "VERT")
-            {
-                return false;
-            }
-            return true;
+            bool etat = true;
+            if (GetEtat() == "VERT" && base.nbHeures >= this.seuil)
+                ChangerEtat("ORANGE");
+            else
+                etat = false;
+
+            return etat;
         }
         #endregion
     }

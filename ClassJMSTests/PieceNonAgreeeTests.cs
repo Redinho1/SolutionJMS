@@ -32,17 +32,17 @@ namespace ClassJMS.Tests
         public void AControlerTest()
         {
             // Cas 1 : La piece est à contrôler car son état est vert et le seuil est dépassé
-            PieceNonAgreee PNA = new PieceNonAgreee(125, "Anémomètre", 1250, 60);
-            Assert.AreEqual(false, PNA.AControler());
+            PieceNonAgreee PNA = new PieceNonAgreee(125, "Anémomètre", 1250, 1000);
+            Assert.AreEqual(true, PNA.AControler());
 
             // Cas 2 : La piece n'est pas à contrôler car le seuil n'est pas dépassé, même si son état est vert
-            PNA.ChangerEtat("ORANGE");
-            Assert.AreEqual(true, PNA.AControler());
-
+            PieceNonAgreee PNA2 = new PieceNonAgreee(125, "Anémomètre", 1250, 1300);
+            Assert.AreEqual(false, PNA2.AControler());
 
             // Cas 3 : La piece n'est pas à contrôler car son état n'est pas vert, même si le seuil est dépassé
-            PNA.ChangerEtat("ORANGE");
-            Assert.AreEqual(true, PNA.AControler());
+            PieceNonAgreee PNA3 = new PieceNonAgreee(125, "Anémomètre", 1250, 1250);
+            PNA3.ChangerEtat("ROUGE");
+            Assert.AreEqual(false, PNA3.AControler());
         }
     } 
 }
